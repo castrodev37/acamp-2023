@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/acamp-2023/static/js/main.c3f0942d.js",
+    "static/js/787.83497e73.chunk.js": "/acamp-2023/static/js/787.83497e73.chunk.js",
+    "static/media/pizza-3.jpg": "/acamp-2023/static/media/pizza-3.0cc2801017e207210104.jpg",
+    "static/media/sweet3.jpg": "/acamp-2023/static/media/sweet3.7d2af401120bd646d385.jpg",
+    "static/media/sweet-2.jpg": "/acamp-2023/static/media/sweet-2.f78e166152f52bc64ef9.jpg",
+    "static/media/product-2.jpg": "/acamp-2023/static/media/product-2.413d83aa2a2a765863d0.jpg",
+    "static/media/sweet-3.jpg": "/acamp-2023/static/media/sweet-3.dd9642d7c1e4351f838f.jpg",
+    "static/media/product-3.jpg": "/acamp-2023/static/media/product-3.b47f1cbc896fee05c16d.jpg",
+    "static/media/product-1.jpg": "/acamp-2023/static/media/product-1.65505c494f389ed3a1df.jpg",
+    "static/media/logo.png": "/acamp-2023/static/media/logo.ac33cb83db2af5f0a9a5.png",
+    "index.html": "/acamp-2023/index.html",
+    "main.c3f0942d.js.map": "/acamp-2023/static/js/main.c3f0942d.js.map",
+    "787.83497e73.chunk.js.map": "/acamp-2023/static/js/787.83497e73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c3f0942d.js"
+  ]
+}
