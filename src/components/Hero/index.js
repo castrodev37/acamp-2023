@@ -19,8 +19,9 @@ const Hero = () => {
 
   return (
     <HeroContainer>
-      <Navbar toggle={toggle} />
-      <Sidebar isOpen={isOpen} toggle={toggle} />
+      {/* <Navbar toggle={toggle} />
+      <Sidebar isOpen={isOpen} toggle={toggle} /> */}
+      <Navbar />
       <HeroContent>
         <HeroItems>
           <HeroH1>Acampamento Impulso 2023</HeroH1>

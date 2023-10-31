@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import { NavLink as Link } from 'react-router-dom';
-import { FaPizzaSlice } from 'react-icons/fa';
 import Logo from '../../images/logo.png';
 
 export const Nav = styled.nav`
@@ -8,6 +7,7 @@ export const Nav = styled.nav`
   height: 80px;
   display: flex;
   justify-content: center;
+  align-items: center;
   font-weight: 700;
 `;
 
@@ -18,12 +18,12 @@ export const NavLink = styled(Link)`
   align-items: center;
   text-decoration: none;
   cursor: pointer;
-
-  @media screen and (max-width: 400px) {
+  
+  /*@media screen and (max-width: 400px) {
     position: absolute;
     top: 10px;
     left: 25px;
-  }
+  }*/
 `;
 
 export const NavIcon = styled.div`
@@ -47,7 +47,7 @@ export const Bars = styled.div`
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  transform: translate(-75%, -15%);
+  /*transform: translate(-75%, -15%);*/
 `;
 //styled(FaPizzaSlice)`
 //font-size: 2rem;

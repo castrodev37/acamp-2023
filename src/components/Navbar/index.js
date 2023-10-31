@@ -6,10 +6,11 @@ const Navbar = ({ toggle }) => {
     <>
       <Nav>
         <NavLink to='/'>Servolution</NavLink>
-        <NavIcon onClick={toggle}>
+        <Bars />
+        {/* <NavIcon onClick={toggle}>
           <p>Menu</p>
           <Bars />
-        </NavIcon>
+        </NavIcon> */}
       </Nav>
     </>
   );

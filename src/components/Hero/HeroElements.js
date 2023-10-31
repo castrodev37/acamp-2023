@@ -1,13 +1,16 @@
 import styled from 'styled-components';
 import ImgBg from '../../images/pizza-3.jpg';
+// import ImgBg from '../../images/bkgnd.png';
+// import ImgBg from '../../images/bkgnd_2.png';
 
 export const HeroContainer = styled.div`
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)),
-    url(${ImgBg});
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url(${ImgBg});
   height: 100vh;
   background-position: center;
   background-size: cover;
 `;
+
+// 
 
 export const HeroContent = styled.div`
   height: calc(100vh - 80px);
