@@ -55,7 +55,7 @@ export const FeatureContainer1 = styled.div`
   }
 `;
 
-export const FeatureButton = styled.button`
+export const FeatureButton = styled.a`
   font-size: 1.4rem;
   padding: 0.6rem 3rem;
   border: none;
